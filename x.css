@@ -1,0 +1,18 @@
+h1{
+    color:rgb(45, 172, 204);
+    background-color: black;
+    padding: 1px;
+    margin: 70px;
+    text-align: center;
+}
+h1:hover{
+color: brown;
+background-color: rgb(230, 214, 183);
+transition: 1s;
+}
+body{
+    background-image: url(38207.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
